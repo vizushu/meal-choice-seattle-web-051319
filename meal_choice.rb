@@ -1,5 +1,5 @@
 def meal_choice(choice)
-  puts meat
+  return meat
 end
 choice [vegan, meat]
 
