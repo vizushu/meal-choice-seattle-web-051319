@@ -1,4 +1,4 @@
-def meal_choice(choice)
+def meal_choice(default_value)
   choice == meat
   return choice
 end
