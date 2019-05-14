@@ -1,6 +1,5 @@
 def meal_choice(default_value)
-  choice == meat
-  return choice
+  default_value == meat
 end
 
 # Define a method meal_choice that returns the meal_choice that was
