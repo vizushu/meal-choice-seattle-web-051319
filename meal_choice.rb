@@ -1,5 +1,6 @@
 def meal_choice(choice)
-  return meat
+  choice = meat
+  return choice
 end
 
 # Define a method meal_choice that returns the meal_choice that was
